@@ -1,5 +1,5 @@
 # Hi there 👋
-# Welcome to Bryan A Quero 
+# Welcome to Bryan A Quero GitHub profile
 ---
 ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist.
 
