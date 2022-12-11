@@ -3,6 +3,7 @@
 ---
 ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist.
 
+![210701_BRYAN+A+QUERO_3dUXBIM_2k Page 007](https://user-images.githubusercontent.com/10051887/206913992-4080cd22-b865-4512-a435-ebe4ecc72516.jpg)
 
 <!--
 **Bryan3D/Bryan3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
