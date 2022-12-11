@@ -1,5 +1,7 @@
 # Hi there 👋
 # Welcome to Bryan A Quero GitHub profile
+![OldTheFuture_ComputerWEB](https://user-images.githubusercontent.com/10051887/206914052-41c41ff7-81e0-4319-9bd4-892a9274581e.png)
+
 ---
 ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist.
 
