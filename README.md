@@ -17,9 +17,11 @@
 
 - Disney Wish Cruise
 
+--- 
 
 ![Disney_Galaxy of Edge](https://user-images.githubusercontent.com/10051887/208160247-1f42ddc7-caa3-4439-b9f4-26fd2e2b69d0.jpg)
-
+ - Disney_Galaxy of Edge (BIM Managing Team)
+--- 
 
 ![CharacterDesing](https://user-images.githubusercontent.com/10051887/206915714-2fe1dbf4-98a5-4b41-a9cf-b03b1c4ee993.png)
 - Character Design : Modeling, Texture, Rigging and Blendshape
