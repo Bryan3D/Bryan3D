@@ -6,8 +6,8 @@
 ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist.
 
 ---
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bryan3D&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=tokyonight)]()
 
 
 ## Portfolio
