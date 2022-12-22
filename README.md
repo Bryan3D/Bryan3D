@@ -9,6 +9,9 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bryan3D&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=tokyonight)]()
 
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryan3D&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan3D&theme=gotham" alt="mystreak"/>
+---
 
 ## Portfolio
 --- 
