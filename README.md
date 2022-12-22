@@ -10,7 +10,12 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham)]()
 
 ---
-
+<p>
+<a href="https://www.linkedin.com/in/bryanquero/">
+ <img src="https://img.shields.io/badge/-bryanquero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=bryan3D&style=flat-square&color=blue" alt=""/>
+</p>
 ---
 
 ## Portfolio
