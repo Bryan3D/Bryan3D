@@ -8,7 +8,8 @@
 ---
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bryan3D&count_private=true&theme=gotham&showicons=true)]() -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan3d&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan3d&theme=gotham" alt="mystreak"/>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham)]() -->
+<img align= "center" src = https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham />
 
 ---
 <p>
