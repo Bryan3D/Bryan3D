@@ -23,7 +23,8 @@
  <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
- <code><img height="40" alt="csharp" src="https://img.icons8.com/color/512/c-sharp-logo.png"</code>
+<code><img height="40" alt="csharp" 
+src="https://img.icons8.com/color/512/c-sharp-logo.png"</code>
 
  </p>
 
