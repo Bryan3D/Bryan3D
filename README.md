@@ -31,7 +31,7 @@ src="https://img.icons8.com/color/512/c-sharp-logo.png"></code>
 ## Resume
 --- 
 
-[!Resume link](https://rxresu.me/bryanq2008/bryan-a-quero)
+[!Click here for a copy of my resume](https://rxresu.me/bryanq2008/bryan-a-quero)
 
 ## Portfolio
 --- 
