@@ -20,8 +20,7 @@ An experienced MERN full-stack developer with extensive experience developing vi
  <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
  </a>
 <img src="https://komarev.com/ghpvc/?username=bryan3D&style=flat-square&color=blue" alt=""/>
-
- [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
+[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 </p>
 <p>
  <code><img height="40" alt="HTML " 
