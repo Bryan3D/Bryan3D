@@ -2,6 +2,10 @@
 # Welcome to Bryan A Quero GitHub profile
 ![OldTheFuture_ComputerWEB_02](https://user-images.githubusercontent.com/10051887/206914672-eac089b9-6d47-47c5-b4e0-b4d33efd3a65.png)
 
+## BIO
+---
+An experienced MERN full-stack developer with extensive experience developing video games, virtual reality, augmented reality, and website applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
+
 ---
 <!-- ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist. --> 
 
