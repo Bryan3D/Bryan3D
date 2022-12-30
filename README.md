@@ -24,6 +24,8 @@ An experienced MERN full-stack developer with extensive experience developing vi
  [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 </p>
 <p>
+ <code><img height="40" alt="HTML " 
+src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png "></code>
  <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
@@ -36,6 +38,8 @@ src="https://github.com/Bryan3D/Bryan3D/blob/main/unity-featured.svg"></code>
  <code><img height="40" alt="unreal" 
 src="https://github.com/Bryan3D/Bryan3D/blob/main/unreal-featured.svg"></code>
  
+ <!--- <code><img height="40" alt=" " 
+src=" "></code> --->
  
 
  </p>
