@@ -4,7 +4,7 @@
 
 ## BIO
 ---
-An experienced MERN full-stack developer with extensive experience developing video games, virtual reality, augmented reality, and website applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
+An experienced MERN full-stack developer and Technical Artist with extensive experience developing video games, virtual reality, augmented reality, and website applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
 
 ---
 <!-- ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist. --> 
