@@ -11,7 +11,10 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <!-- ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist. --> 
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bryan3D&count_private=true&theme=gotham&showicons=true)]() -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan3d&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan3d&theme=gotham" alt="mystreak"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan3d&hide_rank=true&theme=gotham&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan3d&theme=gotham" alt="mystreak"/>
+</p>
+<p align ="center">
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham)]() -->
 <img align= "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham" />
 </p>
@@ -37,7 +40,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
     <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
   </a>
 </p>
-<p>
+<p align ="center">
  <code><img height="40" alt="HTML " 
 src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png"></code>
  <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
