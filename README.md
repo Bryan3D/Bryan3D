@@ -26,8 +26,10 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <a href="https://www.linkedin.com/in/bryanquero/">
  <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
  </a>
+<a>	
 <img src="https://komarev.com/ghpvc/?username=bryan3D&style=flat-square&color=blue" alt=""/>
    [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
+ </a>
 </p>
 <p>
  <code><img height="40" alt="HTML " 
