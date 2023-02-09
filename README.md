@@ -23,14 +23,10 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
   <a href="https://github.com/ossu/computer-science">
 	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/bryanquero/">
  <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
  </a>
 <img src="https://komarev.com/ghpvc/?username=bryan3D&style=flat-square&color=blue" alt=""/>
- 
    [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 </p>
 <p>
