@@ -7,14 +7,13 @@
 An experienced MERN full-stack developer and Technical Artist with extensive experience developing Architectural Models, Enviroments, Video games, Virtual Reality, Augmented Reality, Mobile and Website Applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
 
 ---
+<p align = "center">
 <!-- ## I am Bryan Alec Quero, Software Engineer and XR developer working in the Orlando, Florida area with a Bachelor’s Degree and 15+ years of professional experience in Game Development and Technical Artist. --> 
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Bryan3D&count_private=true&theme=gotham&showicons=true)]() -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan3d&hide_rank=true&theme=gotham&count_private=true&show_icons=true" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan3d&theme=gotham" alt="mystreak"/>
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham)]() -->
 <img align= "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham" />
-
----
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -26,9 +25,15 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <a href="https://www.linkedin.com/in/bryanquero/">
  <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
  </a>
- </a>
+  </a>
     <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg?style=flat-square" alt="Contributors">
+  </a>
+  <a href="https://github.com/thedaviddias/Front-End-Checklist/">
+    <img src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg?style=flat-square" alt="Front‑End_Checklist followed">
+  </a>
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
   </a>
 </p>
 <p>
