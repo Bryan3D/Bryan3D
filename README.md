@@ -16,18 +16,19 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <img align= "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham" />
 </p>
 <p align="center">
+<a>
+<a href="https://www.linkedin.com/in/bryanquero/">
+ <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
+ </a>
+	
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
   <a href="https://github.com/ossu/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a>
-<a href="https://www.linkedin.com/in/bryanquero/">
- <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
- </a>
+<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
-    <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg?style=flat-square" alt="Contributors">
+   <a href="https://github.com/thedaviddias/Front-End-Checklist/graphs/contributors">
+   <img src="https://img.shields.io/github/contributors/thedaviddias/Front-End-Checklist.svg?style=flat-square" alt="Contributors">
   </a>
   <a href="https://github.com/thedaviddias/Front-End-Checklist/">
     <img src="https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg?style=flat-square" alt="Front‑End_Checklist followed">
