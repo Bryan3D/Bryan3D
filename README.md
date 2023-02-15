@@ -78,6 +78,9 @@ src=" "></code> --->
 
 [Work Day Scheduler web page app](https://bryan3d.github.io/Work-Day-Scheduler/)
 
+![2023-01-10 16_02_52-Logo com](https://user-images.githubusercontent.com/10051887/219151554-421a104a-15cb-47bc-a5da-31fb1d1866b9.png)
+
+[SocialNet](https://github.com/Bryan3D/Challenge18SocialNetworkApi)
 --- 
 [Portfolio Drive link click here](https://drive.google.com/drive/folders/1mtm5-vfWdFmaiwW9CcgxBBa2Oas8uvLe?usp=share_link) 🔗
 ---
