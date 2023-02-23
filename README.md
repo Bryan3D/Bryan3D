@@ -64,7 +64,8 @@ src=" "></code> --->
 ## Resume
 --- 
 
-[2023_02_02_BQueroResumen.pdf](https://github.com/Bryan3D/Bryan3D/files/10574905/2023_02_02_BQueroResumen.pdf)
+[BryanAlecQuero Resume](https://github.com/Bryan3D/Bryan3D/files/10816333/BryanAlecQuero_SE.pdf)
+
 
 ## MERN Full Stack Developer Portfolio
 
