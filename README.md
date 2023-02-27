@@ -65,7 +65,8 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ## Resume
 --- 
 
-[BryanAlecQuero Resume](https://github.com/Bryan3D/Bryan3D/files/10816333/BryanAlecQuero_SE.pdf)
+[BryanAlecQueroDV](https://github.com/Bryan3D/Bryan3D/files/10844673/0223BryanAlecQueroDV.pdf)
+
 
 
 ## MERN Full Stack Developer Portfolio
