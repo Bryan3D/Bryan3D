@@ -88,9 +88,16 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 
 ---
 ## 3D and XR Development Portfolio
+---
+
+![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222002282-d97bae26-b347-4715-ba49-7feb4fadf93e.png)
+
+![HighresScreenshot00003](https://user-images.githubusercontent.com/10051887/222001251-676c3829-c9c8-4bc6-8396-b6cc0d49d01c.png)
+Unreal Enviroment Design
+
 ![HighresScreenshot00002 (1)](https://user-images.githubusercontent.com/10051887/206915588-cfe30fd9-fe51-419e-82f0-1743d1d4e4cb.png)
 - Harley Davison E-commerce
---- 
+
 ![210701_BRYAN+A+QUERO_3dUXBIM_2k Page 007](https://user-images.githubusercontent.com/10051887/206915666-829874e6-d1a0-41bb-85f0-856387128436.jpg)
 
 - Disney Wish Cruise
