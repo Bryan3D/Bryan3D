@@ -89,6 +89,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ---
 ## 3D and XR Development Portfolio
 ---
+![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222030216-32310d10-3210-4526-b4d1-f95f3b293c14.png)
 
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222002282-d97bae26-b347-4715-ba49-7feb4fadf93e.png)
 
