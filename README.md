@@ -65,6 +65,19 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 	<br>
 	<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/spDJqTSyTTmoovoHOfTbEg?identity__email=bryanq2008%40live.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/spDJqTSyTTmoovoHOfTbEg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">UCF Coding Boot Camp (Full-Stack Web Development)[Part-Time]</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Mar 27, 2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Bryan Quero</span></p><p style="margin: 16px 0; padding: 0;"><a </script></blockquote>
 </div>
+<br>
+<div align=center>
+	
+	<div class="col-12 col-md-4 cr-badges-full-badge__sidebar"><img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/e5c2fa3e-842c-4f48-ade9-267f355364e5/CS-_XRDEV.png" alt="Circuit Stream Certified XR Developer - Unity badge image. Learning. Intermediate level. Issued by Circuit Stream" width="340" height="340"></div>
+	
+	<h1>Circuit Stream Certified XR Developer - Unity</h1>
+	<h2 class="ac-heading ac-heading--settings-head">Skills</h2>
+	<div align = center>
+		<ul class="cr-badges-badge-skills__skills"><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__0 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/augmented-reality">Augmented Reality</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__1 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/c">C#</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__2 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/programming">Programming</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__3 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/unity-engineer">Unity Engineer</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__4 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/unity-programming">Unity Programming</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__5 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/virtual-reality-vr">Virtual Reality (VR)</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__6 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/vr-developer">VR Developer</a></li><li class="cr-badges-badge-skills__skill cr-badges-badge-skills__7 cr-badges-badge-skills__skill--linked"><a class="track-link" tabindex="0" href="/skills/vr-interaction">VR Interaction</a></li></ul>
+	</div>
+	
+	
+</div>
  
 ## Resume
 --- 
