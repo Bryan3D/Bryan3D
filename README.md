@@ -77,7 +77,19 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 	<p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Skills</p>
 	<div align = center>
 		<ul align = center class="cr-badges-badge-skills__skills">
-			<a class="track-link" tabindex="0" href="/skills/augmented-reality">Augmented Reality</a><a class="track-link" tabindex="0" href="/skills/c">C#</a><a class="track-link" tabindex="0" href="/skills/programming">Programming</a><a class="track-link" tabindex="0" href="/skills/unity-engineer">Unity Engineer</a><a class="track-link" tabindex="0" href="/skills/unity-programming">Unity Programming</a><a class="track-link" tabindex="0" href="/skills/virtual-reality-vr">Virtual Reality (VR)</a><a class="track-link" tabindex="0" href="/skills/vr-developer">VR Developer</a><a class="track-link" tabindex="0" href="/skills/vr-interaction">VR Interaction</a></ul>
+			<a class="track-link" tabindex="0" href="/skills/augmented-reality">Augmented Reality</a>
+			<br>
+			<a class="track-link" tabindex="0" href="/skills/c">C#</a>
+			<br>
+			<a class="track-link" tabindex="0" href="/skills/programming">Programming</a><a class="track-link" tabindex="0" href="/skills/unity-engineer">Unity Engineer</a>
+			<br>
+			<a class="track-link" tabindex="0" href="/skills/unity-programming">Unity Programming</a>
+			<br>
+			<a class="track-link" tabindex="0" href="/skills/virtual-reality-vr">Virtual Reality (VR)</a>
+			<br>
+			<a class="track-link" tabindex="0" href="/skills/vr-developer">VR Developer</a>
+			<br>
+			<a class="track-link" tabindex="0" href="/skills/vr-interaction">VR Interaction</a></ul>
 	</div>
 	
 	
