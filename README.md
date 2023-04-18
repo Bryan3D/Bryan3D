@@ -69,8 +69,10 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <div align=center>
 	
 
-	![CS-_XRDEV](https://images.credly.com/size/340x340/images/e5c2fa3e-842c-4f48-ade9-267f355364e5/CS-_XRDEV.png)
-
+	 
+    <a href="https://images.credly.com/size/340x340/images/e5c2fa3e-842c-4f48-ade9-267f355364e5/CS-_XRDEV.png">
+    <img src="https://images.credly.com/size/340x340/images/e5c2fa3e-842c-4f48-ade9-267f355364e5/CS-_XRDEV.png" alt="CSC">
+    </a>
 	<h1>Circuit Stream Certified XR Developer - Unity</h1>
 	<h2 class="ac-heading ac-heading--settings-head">Skills</h2>
 	<div align = center>
