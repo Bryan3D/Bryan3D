@@ -26,7 +26,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham)]() -->
 <!-- <img align= "center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=5&theme=gotham" /> -->
-	### Skills
+### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -89,7 +89,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <a href="https://github.com/bryan3D" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="center">
-<a>
+<!-- <a>
 <a href="https://www.linkedin.com/in/bryanquero/">
  <img src="https://img.shields.io/badge/-Bryan Quero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanquero/"/>
  </a>
@@ -108,9 +108,9 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
   </a>
     <a href="https://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
-  </a>
-	<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
-</p> -->
+  </a> -->
+<!-- 	<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+</p> --> -->
 
 <div align ="center">
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.icons8.com/color/512/c-sharp-logo.png" title="C#" alt="C#" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
