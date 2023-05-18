@@ -1,5 +1,5 @@
 
-![OldTheFuture_ComputerWEB_02](https://user-images.githubusercontent.com/10051887/206914672-eac089b9-6d47-47c5-b4e0-b4d33efd3a65.png)
+<!-- ![OldTheFuture_ComputerWEB_02](https://user-images.githubusercontent.com/10051887/206914672-eac089b9-6d47-47c5-b4e0-b4d33efd3a65.png) -->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan A Quero
 =====================================================================================================================================
 
