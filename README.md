@@ -76,18 +76,21 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/bryan3D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bryanquero/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 <p align = "center">
 <a href="http://www.github.com/bryan3D"><img src="https://github-readme-stats.vercel.app/api?username=bryan3D&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bryan3D's GitHub stats" /></a>
 </p>
+<p align = "center">
 <a href="http://www.github.com/bryan3D"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan3D&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+</p>
+<p align = "center">
 <a href="http://www.github.com/bryan3D"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bryan3D&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+</p>
+<p align = "center">
 <a href="https://github.com/bryan3D" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan3D&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+</p>
 <p align="center">
 <!-- <a>
 <a href="https://www.linkedin.com/in/bryanquero/">
@@ -131,6 +134,8 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a> -->
 </div>
+
+### Badges
 <div align=center>
 	<br>
 	<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/spDJqTSyTTmoovoHOfTbEg?identity__email=bryanq2008%40live.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/spDJqTSyTTmoovoHOfTbEg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">UCF Coding Boot Camp (Full-Stack Web Development)</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"></p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;" </script></blockquote>
