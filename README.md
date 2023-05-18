@@ -110,10 +110,10 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
     <img src="https://img.shields.io/badge/license-CC0-green.svg?style=flat-square" alt="CC0">
   </a> -->
 <!-- 	<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
-</p> --> -->
+</p> --> 
 
 <div align ="center">
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.icons8.com/color/512/c-sharp-logo.png" title="C#" alt="C#" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
+<!-- <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.icons8.com/color/512/c-sharp-logo.png" title="C#" alt="C#" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
  <a target="_blank" rel="noopener noreferrer" href=""><img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" title="C++" alt="C++" width="40" height="40" style="max-width: 100%;"></a>&nbsp;	
   <a target="_blank" rel="noopener noreferrer" href=""><img src="https://github.com/Bryan3D/Bryan3D/blob/main/unity-featured.svg" title="Unity" alt="Unity" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href=""><img src="https://github.com/Bryan3D/Bryan3D/blob/main/unreal-featured.svg" title="Unreal" alt="Unreal" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
@@ -129,7 +129,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a> -->
 </div>
 <div align=center>
 	<br>
