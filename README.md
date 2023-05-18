@@ -9,7 +9,7 @@ XR, Video Game, Technical and Softwarez Developer
 * 🌍  I'm based in Winter Springs, Florida
 * 🖥️  See my portfolio at [My Portfolio](http://bryanq.netlify.app/)
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
-* 🧠  I'm learning C++,
+* 🧠  I'm learning C++
 
 ## BIO
 ---
