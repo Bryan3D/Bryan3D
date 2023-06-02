@@ -7,7 +7,7 @@ XR, Video Game, Technical and Softwarez Developer
 -------------------------------------------------
 
 * 🌍  I'm based in Winter Springs, Florida
-* 🖥️ Kindly find my [Portfolio](#3D|XR-Portfolio) on the page below.
+* 🖥️ Kindly find my [Portfolio](#Portfolio) on the page below.
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
 
@@ -202,7 +202,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 --- 
 
 ---
-### 3D|XR-Portfolio
+### Portfolio
 ---
 -Unreal Enviroment Design
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222030216-32310d10-3210-4526-b4d1-f95f3b293c14.png)
