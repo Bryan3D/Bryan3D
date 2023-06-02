@@ -7,7 +7,7 @@ XR, Video Game, Technical and Softwarez Developer
 -------------------------------------------------
 
 * 🌍  I'm based in Winter Springs, Florida
-* 🖥️  See my portfolio at [My Portfolio](http://bryanq.netlify.app/)
+* 🖥️ Kindly find my [Portfolio](#3DandXRDevelopmentPortfolio) on the page below.
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
 
@@ -180,56 +180,67 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ## MERN Full Stack Developer Portfolio
 
 ---
-
+---
 ![2023-03-27 18_19_30-Georgia Evengreens](https://user-images.githubusercontent.com/10051887/228079720-6db038b4-4391-42f9-bf44-9f2bd7a9b601.png) 
-
+---
 [Georgia Evengreens Website](https://georgia-evergreens.herokuapp.com/)
 
 
 
-
+---
 ![FireShot Capture 002 - WOOFR - woofr2 herokuapp com](https://user-images.githubusercontent.com/10051887/215654825-539863e8-e097-4a0d-9077-5feb99f9bd29.png)
 
 [Woofr dogs social media](https://woofr2.herokuapp.com/)
-
+---
 ![2023-02-15 15_43_39-Work Day Scheduler](https://user-images.githubusercontent.com/10051887/219152365-d8897132-765b-4075-b598-81c206c29957.png)
-
+---
 [Work Day Scheduler web page app](https://bryan3d.github.io/Work-Day-Scheduler/)
-
+---
 ![2023-01-10 16_02_52-Logo com](https://user-images.githubusercontent.com/10051887/219151554-421a104a-15cb-47bc-a5da-31fb1d1866b9.png)
-
+---
 [SocialNet](https://github.com/Bryan3D/Challenge18SocialNetworkApi)
 --- 
 
 ---
-## 3D and XR Development Portfolio
+### Portfolio
 ---
+-Unreal Enviroment Design
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222030216-32310d10-3210-4526-b4d1-f95f3b293c14.png)
 
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222002282-d97bae26-b347-4715-ba49-7feb4fadf93e.png)
 
 ![HighresScreenshot00003](https://user-images.githubusercontent.com/10051887/222001251-676c3829-c9c8-4bc6-8396-b6cc0d49d01c.png)
-Unreal Enviroment Design
+
+---
+- Unity
 
 ![2023-05-18 20_32_08-Foxyy and Sweetie bear - Prototype Materials Demo - Windows, Mac, Linux - Unity ](https://github.com/Bryan3D/Bryan3D/assets/10051887/62fa8c6a-16c0-47b8-9344-807f4210138d)
 
 ![2023-05-18 20_32_40-Foxyy and Sweetie bear - Prototype Materials Demo - Windows, Mac, Linux - Unity ](https://github.com/Bryan3D/Bryan3D/assets/10051887/60725bd6-4e93-4cfd-977c-20542b9cbbf8)
+---
+- AR Geospatial Android Unity Set Up
 
-![HighresScreenshot00002 (1)](https://user-images.githubusercontent.com/10051887/206915588-cfe30fd9-fe51-419e-82f0-1743d1d4e4cb.png)
+![2023_05_31_18_32_38_MySetup_Geospatial_Android_Unity_2021 3 17f1_Personal_DX11_](https://github.com/Bryan3D/Bryan3D/assets/10051887/83fae626-171b-4e38-bd83-fad74fbe2639)
+
+![2023_05_31_18_34_27_MySetup_Geospatial_Android_Unity_2021 3 17f1_Personal_DX11_](https://github.com/Bryan3D/Bryan3D/assets/10051887/2dc7dd39-dd04-4dac-a067-1195ecc37d59)
+---
 - Harley Davison E-commerce
 
-![210701_BRYAN+A+QUERO_3dUXBIM_2k Page 007](https://user-images.githubusercontent.com/10051887/206915666-829874e6-d1a0-41bb-85f0-856387128436.jpg)
+![HighresScreenshot00002 (1)](https://user-images.githubusercontent.com/10051887/206915588-cfe30fd9-fe51-419e-82f0-1743d1d4e4cb.png)
 
 - Disney Wish Cruise
+- 
+![210701_BRYAN+A+QUERO_3dUXBIM_2k Page 007](https://user-images.githubusercontent.com/10051887/206915666-829874e6-d1a0-41bb-85f0-856387128436.jpg)
+
+
 
 --- 
-
-![Disney_Galaxy of Edge](https://user-images.githubusercontent.com/10051887/208160247-1f42ddc7-caa3-4439-b9f4-26fd2e2b69d0.jpg)
  - Disney_Galaxy of Edge (BIM Managing Team)
---- 
+![Disney_Galaxy of Edge](https://user-images.githubusercontent.com/10051887/208160247-1f42ddc7-caa3-4439-b9f4-26fd2e2b69d0.jpg)
 
-![CharacterDesing](https://user-images.githubusercontent.com/10051887/206915714-2fe1dbf4-98a5-4b41-a9cf-b03b1c4ee993.png)
+--- 
 - Character Design : Modeling, Texture, Rigging and Blendshape
+![CharacterDesing](https://user-images.githubusercontent.com/10051887/206915714-2fe1dbf4-98a5-4b41-a9cf-b03b1c4ee993.png)
 
 
 
