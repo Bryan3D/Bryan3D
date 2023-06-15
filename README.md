@@ -224,6 +224,14 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 
 ![2023_05_31_18_34_27_MySetup_Geospatial_Android_Unity_2021 3 17f1_Personal_DX11_](https://github.com/Bryan3D/Bryan3D/assets/10051887/2dc7dd39-dd04-4dac-a067-1195ecc37d59)
 ---
+- Dice Game in Unity
+
+https://github.com/Bryan3D/Bryan3D/assets/10051887/03d6dde2-478e-4595-9834-80521c19b48a
+
+
+
+
+---
 - Harley Davison E-commerce Website 
 
 ![HighresScreenshot00002 (1)](https://user-images.githubusercontent.com/10051887/206915588-cfe30fd9-fe51-419e-82f0-1743d1d4e4cb.png)
