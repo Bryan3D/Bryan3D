@@ -194,7 +194,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ---
 ![2023-02-15 15_43_39-Work Day Scheduler](https://user-images.githubusercontent.com/10051887/219152365-d8897132-765b-4075-b598-81c206c29957.png)
 ---
-[Work Day Scheduler web page app](https://bryan3d.github.io/Work-Day-Scheduler/)
+[Work Day Scheduler Web Page App](https://bryan3d.github.io/Work-Day-Scheduler/)
 ---
 ![2023-01-10 16_02_52-Logo com](https://user-images.githubusercontent.com/10051887/219151554-421a104a-15cb-47bc-a5da-31fb1d1866b9.png)
 ---
@@ -212,19 +212,19 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ![HighresScreenshot00003](https://user-images.githubusercontent.com/10051887/222001251-676c3829-c9c8-4bc6-8396-b6cc0d49d01c.png)
 
 ---
-- Unity
+- Character Design and Animation 
 
 ![2023-05-18 20_32_08-Foxyy and Sweetie bear - Prototype Materials Demo - Windows, Mac, Linux - Unity ](https://github.com/Bryan3D/Bryan3D/assets/10051887/62fa8c6a-16c0-47b8-9344-807f4210138d)
 
 ![2023-05-18 20_32_40-Foxyy and Sweetie bear - Prototype Materials Demo - Windows, Mac, Linux - Unity ](https://github.com/Bryan3D/Bryan3D/assets/10051887/60725bd6-4e93-4cfd-977c-20542b9cbbf8)
 ---
-- AR Geospatial Android Unity Set Up
+- AR Geospatial Android Unity 
 
 ![2023_05_31_18_32_38_MySetup_Geospatial_Android_Unity_2021 3 17f1_Personal_DX11_](https://github.com/Bryan3D/Bryan3D/assets/10051887/83fae626-171b-4e38-bd83-fad74fbe2639)
 
 ![2023_05_31_18_34_27_MySetup_Geospatial_Android_Unity_2021 3 17f1_Personal_DX11_](https://github.com/Bryan3D/Bryan3D/assets/10051887/2dc7dd39-dd04-4dac-a067-1195ecc37d59)
 ---
-- AI Games Designed in Unity
+### AI Games Designed in Unity
 - Toss the Dices Game
 
 https://github.com/Bryan3D/Bryan3D/assets/10051887/03d6dde2-478e-4595-9834-80521c19b48a
