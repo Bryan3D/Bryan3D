@@ -224,10 +224,15 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 
 ![2023_05_31_18_34_27_MySetup_Geospatial_Android_Unity_2021 3 17f1_Personal_DX11_](https://github.com/Bryan3D/Bryan3D/assets/10051887/2dc7dd39-dd04-4dac-a067-1195ecc37d59)
 ---
-- Dice Game in Unity
+- AI Games Designed in Unity
+- Toss the Dices Game
 
 https://github.com/Bryan3D/Bryan3D/assets/10051887/03d6dde2-478e-4595-9834-80521c19b48a
 
+- The Slot Machine Game
+
+
+https://github.com/Bryan3D/Bryan3D/assets/10051887/1f756991-4121-4f03-b177-056f481b9cd9
 
 
 
