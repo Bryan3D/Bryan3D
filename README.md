@@ -8,6 +8,7 @@ XR, Video Game, Technical and Softwarez Developer
 
 * 🌍  I'm based in Winter Springs, Florida
 * 🖥️ Kindly find my [Portfolio](#Portfolio) on the page below.
+* 🧾 Kindly find my [Resume](#Resume) on the page below.
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
 
@@ -170,10 +171,9 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 	
 </div>
  
-## Resume
+### Resume
 --- 
-
-[BryanAlecQueroDV](https://github.com/Bryan3D/Bryan3D/files/10844673/0223BryanAlecQueroDV.pdf)
+[BRYAN A QUERO_Resume](https://github.com/Bryan3D/Bryan3D/files/11850123/06_22_23_BRYAN.A.QUERO_Resume
 
 
 
