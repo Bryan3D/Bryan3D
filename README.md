@@ -9,6 +9,7 @@ XR, Video Game, Technical and Softwarez Developer
 * 🌍  I'm based in Winter Springs, Florida
 * 🧾 Kindly find my [Resume](#Resume) on the page below.
 * 🖥️ Kindly find my [Portfolio](#Portfolio) on the page below.
+* 🕸  WIP new portfolio website [3D Portfolio Under Construction Link ](https://bryanquero.com/)
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
 
