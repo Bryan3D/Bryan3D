@@ -184,6 +184,9 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ---
 The GetQuotes website offers a vast collection of over 4000 quotes for sharing on various social media platforms. This resource provides a convenient solution for those seeking to enhance their online presence through inspiring and thought-provoking quotes. With such a comprehensive selection, users can easily find and share quotes that align with their interests and values, ultimately fostering engagement and building a more robust online community.
 
+![image](https://github.com/Bryan3D/Bryan3D/assets/10051887/e42adc53-f49d-49c6-803d-e7f213da6af8)
+
+
 [GetQuotes](https://bryan3d.github.io/GetQuote/)
 
 
