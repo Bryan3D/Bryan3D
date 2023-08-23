@@ -182,6 +182,11 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ## MERN Full Stack Developer Portfolio
 
 ---
+The GetQuotes website offers a vast collection of over 4000 quotes for sharing on various social media platforms. This resource provides a convenient solution for those seeking to enhance their online presence through inspiring and thought-provoking quotes. With such a comprehensive selection, users can easily find and share quotes that align with their interests and values, ultimately fostering engagement and building a more robust online community.
+
+[GetQuotes](https://bryan3d.github.io/GetQuote/)
+
+
 ---
 ![2023-03-27 18_19_30-Georgia Evengreens](https://user-images.githubusercontent.com/10051887/228079720-6db038b4-4391-42f9-bf44-9f2bd7a9b601.png) 
 ---
