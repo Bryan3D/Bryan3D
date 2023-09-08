@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan A Quero
 =====================================================================================================================================
 
-XR, Video Game, Technical and Softwarez Developer
+XR, Video Game, Technical and Software Developer
 -------------------------------------------------
 
 * 🌍  I'm based in Winter Springs, Florida
@@ -15,7 +15,7 @@ XR, Video Game, Technical and Softwarez Developer
 
 ## BIO
 ---
-An experienced MERN full-stack developer and Technical Artist with extensive experience developing Architectural Models, Enviroments, Video games, Virtual Reality, Augmented Reality, Mobile and Website Applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
+An experienced MERN full-stack developer and Technical Artist with extensive experience developing Architectural Models, Environments, Video games, Virtual Reality, Augmented Reality, Mobile and Website Applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
 
 ---
 <p align = "center">
@@ -215,6 +215,8 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 ### Portfolio
 ---
 -Unreal Environment Design
+
+![HighresScreenshot00015](https://github.com/Bryan3D/Bryan3D/assets/10051887/60543038-41ee-406a-9cac-0d17da556437)
 
 ![HighresScreenshot00014](https://github.com/Bryan3D/Bryan3D/assets/10051887/9948547d-368a-4fed-b1d8-837ead8ee2ff)
 
