@@ -222,6 +222,8 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 
 ![HighresScreenshot00010](https://github.com/Bryan3D/Bryan3D/assets/10051887/e64175ae-62a4-4ec9-a571-b8679c269160)
 
+![HighresScreenshot00016](https://github.com/Bryan3D/Bryan3D/assets/10051887/f89e159e-57c8-48f7-b8d2-cb36ea5d247c)
+
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222030216-32310d10-3210-4526-b4d1-f95f3b293c14.png)
 
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222002282-d97bae26-b347-4715-ba49-7feb4fadf93e.png)
