@@ -180,6 +180,16 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 
 
 ## MERN Full Stack Developer Portfolio
+---
+Python Application for a Barbershop 
+This WIP application has been developed to cater to the unique needs of a barbershop client who has expressed dissatisfaction with the existing application. The current application has been deemed inadequate by the client, and as a result, a more effective and efficient solution was required to address the client's concerns. This application has been designed to meet the specific requirements of the barbershop, with a focus on improving its functionality and usability. The development team has carefully considered the client's feedback and concerns and has incorporated them into the application's design. The final product is a high-quality application expected to meet the client's expectations and satisfy their needs.
+
+
+![appPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/c514629f-e45d-4272-92d4-0c905268728a)
+
+
+[Click here ➡ ](bryan3d-barberapapps-app-evishm.streamlit.app)
+
 
 ---
 The GetQuotes website offers a vast collection of over 4,000 quotes for sharing on various social media platforms. This resource provides a convenient solution for those seeking to enhance their online presence through inspiring and thought-provoking quotes. With such a comprehensive selection, users can easily find and share quotes that align with their interests and values, ultimately fostering engagement and building a more robust online community.
