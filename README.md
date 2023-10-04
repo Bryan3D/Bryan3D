@@ -188,7 +188,7 @@ This WIP application has been developed to cater to the unique needs of a barber
 ![appPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/c514629f-e45d-4272-92d4-0c905268728a)
 
 
-[Click here ➡ ](bryan3d-barberapapps-app-evishm.streamlit.app)
+[Click here ➡ ](https://bryan3d-barberapapps-app-evishm.streamlit.app/)
 
 
 ---
