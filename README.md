@@ -176,7 +176,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 --- 
 
 
-[BRYAN A QUERO RESUME](https://github.com/Bryan3D/Bryan3D/files/11850143/BRYAN.A.QUERO.pdf)
+[BRYAN A QUERO RESUME](https://github.com/Bryan3D/Bryan3D/files/12888985/10_12_BRYANQUERO_SD.pdf)
 
 
 ## MERN Full Stack Developer Portfolio
