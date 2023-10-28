@@ -181,10 +181,27 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 
 ## MERN Full Stack Developer Portfolio
 ---
+<h2>Gun Of Glory Game Landing Page Prototype </h2>
+
+![GunofGlori Game Website LandingPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/8622d17f-3c32-4c55-ab99-a09c4308fe51)
+
+
+Description:
+In the lonely aftermath of a world torn asunder, where the echoes of civilization's collapse still reverberated, a new era dawned. The old world had crumbled, giving way to a wasteland where the rule of law was a distant memory, and the only currency that mattered was survival.
+
+In this unforgiving landscape, where hope was a rare and precious commodity, a disparate group of survivors emerged. United by a shared desire to endure the unrelenting chaos, they banded together to form a resilient community known as "Guns of Glory." Their motto: "Adapt, Overcome, Survive."
+
+The survivors faced a world in turmoil, where resources were scarce, and dangers were abundant. The skies, once filled with the hum of progress, were now a canvas for storms and roving bands of marauders. The remnants of cities were crumbling fortresses, each a battleground for those who would do anything to live another day.
+
+As the sun dipped below the horizon, the Guns of Glory survivors prepared for another night of vigilance. In the flickering light of campfires, they honed their skills, crafted weapons and fortifications, and shared tales of the world that had been lost. Each day brought new challenges, but it also brought opportunities for resilience, camaraderie, and, ultimately, survival.
+
+In this post-apocalyptic world, the Guns of Glory community would face the unknown together, forging their path through the ruins of a broken world, ready to defend their hope and ensure that the legacy of humanity would not be extinguished. Survival of the fittest had become survival of those who dared to unite, adapt, and become the accurate Guns of Glory.
+---
+<h2>(WIP) Python| Flask SaaS Aplication. </h2>
 
 ![SaaS App_sc_shot](https://github.com/Bryan3D/Bryan3D/assets/10051887/d378603d-de6a-4ca7-8ecc-618a587b9282)
 
-<h2>(WIP) Python| Flask SaaS Aplication. </h2>
+
 Description:
 
 Our Work-in-Progress (WIP) Python Flask SaaS website is an exciting project currently under development. It is set to revolutionize how businesses and individuals manage their data, collaborate, and streamline their operations. While this SaaS (Software as a Service) platform is still in the early stages of development, here's a glimpse of what to expect from our innovative solution:
@@ -202,22 +219,36 @@ While this Python Flask SaaS website is still in progress, we're excited about i
 
 [click ➡](https://bryanq2008.pythonanywhere.com/)
 
-![appPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/c514629f-e45d-4272-92d4-0c905268728a)
+
 <h2>(WIP) Python 📕 Booking appointment app created for barbershop clients. </h2>
 
-This WIP application has been developed to cater to the unique needs of a barbershop client who has expressed dissatisfaction with the existing application. The current application has been deemed inadequate by the client, and as a result, a more effective and efficient solution was required to address the client's concerns. This application has been designed to meet the specific requirements of the barbershop, with a focus on improving its functionality and usability. The development team has carefully considered the client's feedback and concerns and has incorporated them into the application's design. The final product is a high-quality application expected to meet clients' expectations and satisfy their needs.
+ 
+![appPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/c514629f-e45d-4272-92d4-0c905268728a)
+
+
+
+Description:
+
+This WIP application has been developed to cater to the unique needs of a barbershop client who has expressed dissatisfaction with the existing application. The current application needs to be deemed adequate by the client, and as a result, a more effective and efficient solution was required to address the client's concerns. This application has been designed to meet the specific requirements of the barbershop, with a focus on improving its functionality and usability. The development team has carefully considered the client's feedback and concerns and has incorporated them into the application's design. The final product is a high-quality application expected to meet clients' expectations and satisfy their needs.
 
 
 
 [click ➡](https://bryan3d-barberapapps-app-evishm.streamlit.app)
 ---
-The GetQuotes website offers a vast collection of over 4,000 quotes for sharing on various social media platforms. This resource provides a convenient solution for those seeking to enhance their online presence through inspiring and thought-provoking quotes. With such a comprehensive selection, users can easily find and share quotes that align with their interests and values, ultimately fostering engagement and building a more robust online community.
+
+<h2>(WIP) Quotes generator </h2>
 
 ![image](https://github.com/Bryan3D/Bryan3D/assets/10051887/e42adc53-f49d-49c6-803d-e7f213da6af8)
+
+---
+
 
 
 [GetQuotes](https://bryan3d.github.io/GetQuote/)
 
+Description:
+
+The GetQuotes website offers a vast collection of over 4,000 quotes for sharing on various social media platforms. This resource provides a convenient solution for those seeking to enhance their online presence through inspiring and thought-provoking quotes. With such a comprehensive selection, users can easily find and share quotes that align with their interests and values, ultimately fostering engagement and building a more robust online community.
 
 ---
 ![2023-03-27 18_19_30-Georgia Evengreens](https://user-images.githubusercontent.com/10051887/228079720-6db038b4-4391-42f9-bf44-9f2bd7a9b601.png) 
