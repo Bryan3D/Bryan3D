@@ -311,9 +311,6 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 Designs
 
 ---
-![Trailers Designs](Render_1.png)
-![Trailers Designs](Render_2.png)
-![Trailers Designs](Render_3.png)
 
 <div style="display: flex; flex-wrap: wrap;">
 <img src="Render_1.png" alt="Image 1" width="150" style="margin: 5px;">
@@ -323,9 +320,17 @@ Designs
 <img src="Render_5.png" alt="Image 5" width="150" style="margin: 5px;">
 </div>
 
+---
+Large Scale Building 
 
 ---
-
+<div style="display: flex; flex-wrap: wrap;">
+<img src="EOIRCourt_render_8.png" alt="Image 1" width="150" style="margin: 5px;">
+<img src="EOIRCourt_render_7.png" alt="Image 2" width="150" style="margin: 5px;">
+<img src="EOIRCourt_render_6.png" alt="Image 3" width="150" style="margin: 5px;">
+<img src="EOIRCourt_render_5.png" alt="Image 4" width="150" style="margin: 5px;">
+<img src="" alt="EOIRCourt_render_1.blend_.png" width="150" style="margin: 5px;">
+</div>
 
 
 ---
