@@ -313,11 +313,11 @@ Designs
 ---
 
 <div style="display: flex; flex-wrap: wrap;">
-<img src="Render_1.png" alt="Image 1" width="150" style="margin: 5px;">
-<img src="Render_2.png" alt="Image 2" width="150" style="margin: 5px;">
-<img src="Render_3.png" alt="Image 3" width="150" style="margin: 5px;">
-<img src="Render_4.png" alt="Image 4" width="150" style="margin: 5px;">
-<img src="Render_5.png" alt="Image 5" width="150" style="margin: 5px;">
+<img src="Render_1.png" alt="Image 1" width="450" style="margin: 5px;">
+<img src="Render_2.png" alt="Image 2" width="450" style="margin: 5px;">
+<img src="Render_3.png" alt="Image 3" width="450" style="margin: 5px;">
+<img src="Render_4.png" alt="Image 4" width="450" style="margin: 5px;">
+<img src="Render_5.png" alt="Image 5" width="450" style="margin: 5px;">
 </div>
 
 ---
@@ -325,10 +325,10 @@ Large Scale Building
 
 ---
 <div style="display: flex; flex-wrap: wrap;">
-<img src="EOIRCourt_render_8.png" alt="Image 1" width="150" style="margin: 5px;">
-<img src="EOIRCourt_render_7.png" alt="Image 2" width="150" style="margin: 5px;">
-<img src="EOIRCourt_render_6.png" alt="Image 3" width="150" style="margin: 5px;">
-<img src="EOIRCourt_render_5.png" alt="Image 4" width="150" style="margin: 5px;">
+<img src="EOIRCourt_render_8.png" alt="Image 1" width="450" style="margin: 5px;">
+<img src="EOIRCourt_render_7.png" alt="Image 2" width="450" style="margin: 5px;">
+<img src="EOIRCourt_render_6.png" alt="Image 3" width="450" style="margin: 5px;">
+<img src="EOIRCourt_render_5.png" alt="Image 4" width="450" style="margin: 5px;">
 <img src="EOIRCourt_render_1.blend_.png" alt="Image 5" width="150" style="margin: 5px;">
 </div>
 
