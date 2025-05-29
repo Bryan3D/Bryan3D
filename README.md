@@ -329,7 +329,7 @@ Large Scale Building
 <img src="EOIRCourt_render_7.png" alt="Image 2" width="150" style="margin: 5px;">
 <img src="EOIRCourt_render_6.png" alt="Image 3" width="150" style="margin: 5px;">
 <img src="EOIRCourt_render_5.png" alt="Image 4" width="150" style="margin: 5px;">
-<img src="" alt="EOIRCourt_render_1.blend_.png" width="150" style="margin: 5px;">
+<img src="EOIRCourt_render_1.blend_.png" alt="Image 5" width="150" style="margin: 5px;">
 </div>
 
 
