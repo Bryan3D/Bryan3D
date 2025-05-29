@@ -307,11 +307,25 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 ![HighresScreenshot00003](https://user-images.githubusercontent.com/10051887/222001251-676c3829-c9c8-4bc6-8396-b6cc0d49d01c.png)
 
 ---
--Designs
+
+Designs
+
 ---
 ![Trailers Designs](Render_1.png)
 ![Trailers Designs](Render_2.png)
 ![Trailers Designs](Render_3.png)
+
+<div class="carousel">
+<img src="Render_1.png" alt="Image 1">
+<img src="Render_2.png" alt="Image 2">
+<img src="Render_3.png" alt="Image 3">
+<img src="Render_4.png" alt="Image 4">
+<img src="Render_5.png" alt="Image 5">
+</div>
+
+---
+
+
 
 ---
 - Character Design and Animation 
