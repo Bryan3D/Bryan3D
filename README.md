@@ -310,6 +310,8 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 -Designs
 ---
 ![Trailers Designs](Render_1.png)
+![Trailers Designs](Render_2.png)
+![Trailers Designs](Render_3.png)
 
 ---
 - Character Design and Animation 
