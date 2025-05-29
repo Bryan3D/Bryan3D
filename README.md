@@ -135,6 +135,7 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;"></a> -->
+	
 </div>
 
 ### Badges
@@ -304,7 +305,11 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 ![HighresScreenshot00004](https://user-images.githubusercontent.com/10051887/222002282-d97bae26-b347-4715-ba49-7feb4fadf93e.png)
 
 ![HighresScreenshot00003](https://user-images.githubusercontent.com/10051887/222001251-676c3829-c9c8-4bc6-8396-b6cc0d49d01c.png)
+---
+-Designs
 
+
+---
 ---
 - Character Design and Animation 
 
