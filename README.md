@@ -312,7 +312,7 @@ Designs
 
 ---
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap;" align="center">
 <img src="Render_1.png" alt="Image 1" width="800" style="margin: 5px;">
 <img src="Render_2.png" alt="Image 2" width="800" style="margin: 5px;">
 <img src="Render_3.png" alt="Image 3" width="800" style="margin: 5px;">
