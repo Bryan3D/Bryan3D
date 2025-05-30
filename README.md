@@ -325,6 +325,8 @@ Large Scale Building
 
 ---
 <div style="display: flex; flex-wrap: wrap;" align="center">
+
+<img src="MEDIC_BIG.png" alt="Image 1" width="800" style="margin: 5px;">
 <img src="EOIRCourt_render_8.png" alt="Image 1" width="800" style="margin: 5px;">
 <img src="EOIRCourt_render_7.png" alt="Image 2" width="800" style="margin: 5px;">
 <img src="EOIRCourt_render_6.png" alt="Image 3" width="800" style="margin: 5px;">
