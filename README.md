@@ -194,7 +194,11 @@ This innovative app is tailored for both Android and iOS platforms, providing a 
 and transform the aesthetics of their automobiles with ease and precision.
 
 [Download the app here for demo ](https://drive.google.com/drive/folders/1CY2kZPybGOBnQQAnwD3VJy-lj8nz4UTV?usp=drive_link)
+---
 
+<h2>Figma Weather App Prototype</h2>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/wNY13Rj7xHXzFpPlc8pvVZ/WeatherApp?node-id=1-81&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A53&embed-host=share" allowfullscreen></iframe>
 
 
 ---
