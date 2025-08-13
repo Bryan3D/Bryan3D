@@ -195,17 +195,28 @@ and transform the aesthetics of their automobiles with ease and precision.
 
 [Download the app here for demo ](https://drive.google.com/drive/folders/1CY2kZPybGOBnQQAnwD3VJy-lj8nz4UTV?usp=drive_link)
 ---
-
+<div style="display: flex; flex-wrap: wrap;" align="center">
 <h2>Figma Weather App Prototype</h2>
 
-![Prototype Screenshot](img width="521" height="1066" alt="FigmaWeatherAppPT" src="https://github.com/user-attachments/assets/18463ebf-cab7-46de-b9db-82585ce90d1c")
+![Prototype Screenshot](https://github.com/user-attachments/assets/18463ebf-cab7-46de-b9db-82585ce90d1c)
 
 
 👉 [View Full Interactive Prototype](https://www.figma.com/proto/wNY13Rj7xHXzFpPlc8pvVZ/WeatherApp?node-id=1-53&p=f&t=rg9XcIOir8bDUDid-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A53)
 
-
+</div>
 
 ---
+
+<div style="display: flex; flex-wrap: wrap;" align="center">
+	
+![2023-03-27 18_19_30-Georgia Evengreens](https://user-images.githubusercontent.com/10051887/228079720-6db038b4-4391-42f9-bf44-9f2bd7a9b601.png) 
+
+👉[Georgia Evengreens Website](https://georgia-evergreens.herokuapp.com/)
+
+</div>
+
+---
+
 <h2>Gun Of Glory Game Landing Page Prototype </h2>
 
 ![GunofGlori Game Website LandingPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/8622d17f-3c32-4c55-ab99-a09c4308fe51)
@@ -275,13 +286,7 @@ Description:
 The GetQuotes website offers a vast collection of over 4,000 quotes for sharing on various social media platforms. This resource provides a convenient solution for those seeking to enhance their online presence through inspiring and thought-provoking quotes. With such a comprehensive selection, users can easily find and share quotes that align with their interests and values, ultimately fostering engagement and building a more robust online community.
 
 ---
-![2023-03-27 18_19_30-Georgia Evengreens](https://user-images.githubusercontent.com/10051887/228079720-6db038b4-4391-42f9-bf44-9f2bd7a9b601.png) 
----
-[Georgia Evengreens Website](https://georgia-evergreens.herokuapp.com/)
 
-
-
----
 ![FireShot Capture 002 - WOOFR - woofr2 herokuapp com](https://user-images.githubusercontent.com/10051887/215654825-539863e8-e097-4a0d-9077-5feb99f9bd29.png)
 
 [Woofr dogs social media](https://woofr2.herokuapp.com/)
