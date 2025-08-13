@@ -198,9 +198,10 @@ and transform the aesthetics of their automobiles with ease and precision.
 
 <h2>Figma Weather App Prototype</h2>
 
-![Prototype Screenshot](images/prototype.png)
+![Prototype Screenshot](img width="521" height="1066" alt="FigmaWeatherAppPT" src="https://github.com/user-attachments/assets/18463ebf-cab7-46de-b9db-82585ce90d1c")
 
-👉 [View Full Interactive Prototype]([https://www.figma.com/proto/your-link](https://www.figma.com/proto/wNY13Rj7xHXzFpPlc8pvVZ/WeatherApp?node-id=1-53&p=f&t=rg9XcIOir8bDUDid-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A53))
+
+👉 [View Full Interactive Prototype](https://www.figma.com/proto/wNY13Rj7xHXzFpPlc8pvVZ/WeatherApp?node-id=1-53&p=f&t=rg9XcIOir8bDUDid-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A53)
 
 
 
