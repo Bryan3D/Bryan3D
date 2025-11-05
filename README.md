@@ -1,4 +1,4 @@
-
+![Logo Unreal Engine](https://github.com/user-attachments/assets/d4b2e4c0-477f-4ffe-a6eb-767ac237594a)
 <!-- ![OldTheFuture_ComputerWEB_02](https://user-images.githubusercontent.com/10051887/206914672-eac089b9-6d47-47c5-b4e0-b4d33efd3a65.png) -->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan A Quero
 =====================================================================================================================================
@@ -7,11 +7,11 @@ XR, Video Game, Technical and Software Developer
 -------------------------------------------------
 
 * 🌍  I'm based in Winter Springs, Florida
-* 🧾 Kindly find my [Resume](#Resume) on the page below.
 * 🖥️ Kindly find my [Portfolio](#Portfolio) on the page below.
 * 🕸  WIP new portfolio website [3D Portfolio Under Construction Link ](https://bryanquero.com/)
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
+* 📜  [Resume](https://github.com/user-attachments/files/23362895/102725_Bryan_Alec_Quero_3D_WEB_SoftDev.pdf)
 
 ## BIO
 ---
@@ -73,6 +73,20 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+
+### Game Engines
+<p align="center">	
+<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"><img src="https://www.citypng.com/public/uploads/preview/unreal-engine-white-logo-png-7017516947713345x5letwbsz.png" width="36" height="36" alt="Unreal Engine 5" /></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src ="https://www.citypng.com/public/uploads/preview/unity-white-logo-icon-png-701751694968149dpc3d4ff9d.png" width="36" height="36" alt="Unity" /></a>
+<a href="https://www.roblox.com/" target="_blank" rel="noreferrer"><img src ="https://cdn.foundation.roblox.com/current/StudioLogo.svg" width="36" height="36" alt="Roblox" /></a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="36" height="36" alt="Godot" /></a>
+</p>
+
+
+
+
+
+
 </p>
 
 ### Socials
@@ -173,14 +187,8 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 	
 </div>
  
-### Resume
+
 --- 
-
-
-
-[Bryan Quero Copy of resume](https://github.com/Bryan3D/Bryan3D/files/13245965/1101_BRYAN.ALEC.QUERO_sd.pdf)
-
-
 ## MERN Full Stack, XR, Game Developer Portfolio
 
 <h2>Car Color Change Configuration APP (WIP) </h2>
@@ -320,9 +328,18 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 ![HighresScreenshot00003](https://user-images.githubusercontent.com/10051887/222001251-676c3829-c9c8-4bc6-8396-b6cc0d49d01c.png)
 
 ---
-Assests Creations
-
+Assets Creations
 ---
+![Continest_07](https://github.com/user-attachments/assets/7416bb3d-fbd4-4d41-9ab9-8048d588ea58)
+![Continest_06](https://github.com/user-attachments/assets/91542e12-7c59-4b8a-877b-e9c4e45bde7d)
+![Continest_05](https://github.com/user-attachments/assets/aec668ca-e146-400b-8e78-dbca448a80bf)
+![Continest_04](https://github.com/user-attachments/assets/437cd1ff-1b66-4843-b7ad-770237e65add)
+![Continest_03](https://github.com/user-attachments/assets/88098313-3b33-4dce-a235-6bef99e507a1)
+![Continest_02](https://github.com/user-attachments/assets/b3ca72f6-1a17-479b-a5da-d5609adfc795)
+![Continest_01](https://github.com/user-attachments/assets/967235eb-ac2c-451c-aced-a97d5d6e4328)
+![Continest_00](https://github.com/user-attachments/assets/f65f9a5a-f702-4af1-8c51-c755dad5c6fa)
+
+
 
 ---
 
