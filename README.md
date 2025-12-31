@@ -188,7 +188,9 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 	
 </div>
  
-
+---
+### Portfolio
+---
 --- 
 ## MERN Full Stack, XR, Game Developer Portfolio
 
@@ -309,9 +311,10 @@ The GetQuotes website offers a vast collection of over 4,000 quotes for sharing 
 [SocialNet](https://github.com/Bryan3D/Challenge18SocialNetworkApi)
 --- 
 
----
-### Portfolio
----
+-----
+Game Developer And Technical Artist
+-----
+
 -Unreal Environment Design
 
 ![2023-09-08 15_45_37-test_melee - Unreal Editor](https://github.com/Bryan3D/Bryan3D/assets/10051887/08fa1a99-10cf-444d-b353-e347b429bd4f)
