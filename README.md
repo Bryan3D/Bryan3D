@@ -16,7 +16,7 @@ XR, Video Game, Technical and Software Developer
 
 ## BIO
 ---
-An experienced MERN full-stack developer and Technical Artist with extensive experience developing Architectural Models, Environments, Video games, Virtual Reality, Augmented Reality, Mobile and Website Applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
+An experienced MERN full-stack developer and Technical Artist with extensive experience developing Architectural Models, Environments, Video games, virtual reality, augmented reality, and Website Applications. I also have many years of experience in architectural, mechanical, and electrical (MEP) design and construction.
 
 ---
 <p align = "center">
@@ -193,28 +193,6 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 ---
 --- 
 ## MERN Full Stack, XR, Game Developer Portfolio
-
-<h2>Car Color Change Configuration APP (WIP) </h2>
-
-https://github.com/Bryan3D/Bryan3D/assets/10051887/49b30eb6-f4fa-4e51-be49-1c01c8dff823
-
-Description:
-
-The Car Color Change Configuration App is an assertive and robust mobile application designed to empower car enthusiasts, owners, and automotive professionals to quickly and accurately customize the exterior color of their vehicles.
-This innovative app is tailored for both Android and iOS platforms, providing a seamless and immersive experience to its users. With this cutting-edge app, users can confidently explore, visualize, 
-and transform the aesthetics of their automobiles with ease and precision.
-
-[Download the app here for demo ](https://drive.google.com/drive/folders/1CY2kZPybGOBnQQAnwD3VJy-lj8nz4UTV?usp=drive_link)
----
-<div style="display: flex; flex-wrap: wrap;" align="center">
-<h2>Figma Weather App Prototype</h2>
-
-![Prototype Screenshot](https://github.com/user-attachments/assets/18463ebf-cab7-46de-b9db-82585ce90d1c)
-
-
-👉 [View Full Interactive Prototype](https://www.figma.com/proto/wNY13Rj7xHXzFpPlc8pvVZ/WeatherApp?node-id=1-53&p=f&t=rg9XcIOir8bDUDid-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A53)
-
-</div>
 ---
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
@@ -239,6 +217,28 @@ and transform the aesthetics of their automobiles with ease and precision.
 
 ---
 
+<h2>Car Color Change Configuration APP (WIP) </h2>
+
+https://github.com/Bryan3D/Bryan3D/assets/10051887/49b30eb6-f4fa-4e51-be49-1c01c8dff823
+
+Description:
+
+The Car Color Change Configuration App is a robust, user-friendly mobile application designed to empower car enthusiasts, owners, and automotive professionals to quickly and accurately customize their vehicles' exterior color.
+This innovative app is tailored for both Android and iOS platforms, providing a seamless and immersive experience to its users. With this cutting-edge app, users can confidently explore, visualize, 
+and transform the aesthetics of their automobiles with ease and precision.
+
+[Download the app here for demo ](https://drive.google.com/drive/folders/1CY2kZPybGOBnQQAnwD3VJy-lj8nz4UTV?usp=drive_link)
+---
+<div style="display: flex; flex-wrap: wrap;" align="center">
+<h2>Figma Weather App Prototype</h2>
+
+![Prototype Screenshot](https://github.com/user-attachments/assets/18463ebf-cab7-46de-b9db-82585ce90d1c)
+
+
+👉 [View Full Interactive Prototype](https://www.figma.com/proto/wNY13Rj7xHXzFpPlc8pvVZ/WeatherApp?node-id=1-53&p=f&t=rg9XcIOir8bDUDid-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A53)
+
+</div>
+------
 <h2>Gun Of Glory Game Landing Page Prototype </h2>
 
 ![GunofGlori Game Website LandingPage](https://github.com/Bryan3D/Bryan3D/assets/10051887/8622d17f-3c32-4c55-ab99-a09c4308fe51)
