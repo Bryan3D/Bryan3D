@@ -204,6 +204,13 @@ An experienced MERN full-stack developer and Technical Artist with extensive exp
 </div>
 
 ---
+<div style="display: flex; flex-wrap: wrap;" align="center">
+	
+![Weather App]<img width="1521" height="1110" alt="weatherApp" src="https://github.com/user-attachments/assets/216d14ac-be26-4141-bec6-2effaf4fee6a" />
+
+👉[Weather App Link](https://weather-and-time-app.vercel.app/)
+
+</div>
 
 ---
 
