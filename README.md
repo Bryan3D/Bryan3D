@@ -12,7 +12,7 @@ XR, Video Game, Technical and Software Developer
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
 * 📜  [Resume](https://github.com/user-attachments/files/26796529/Bryan_Alec_Quero_2-10-26.pdf)
-) 
+ 
 
 
 ## BIO
