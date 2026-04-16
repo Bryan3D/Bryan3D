@@ -8,7 +8,7 @@ XR, Video Game, Technical and Software Developer
 
 * 🌍  I'm based in Winter Springs, Florida
 * 🖥️ Kindly find my [Portfolio](#Portfolio) on the page below.
-* 🕸  WIP new portfolio website [3D Portfolio Under Construction Link ](https://bryanquero.com/)
+* 🕸  WIP new portfolio website [3D Portfolio Under Construction Link ](https://bryanqportfolio.vercel.app/)
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
 * 📜  [Resume](https://github.com/user-attachments/files/23362895/102725_Bryan_Alec_Quero_3D_WEB_SoftDev.pdf) 
