@@ -11,7 +11,8 @@ XR, Video Game, Technical and Software Developer
 * 🕸  WIP new portfolio website [3D Portfolio Under Construction Link ](https://bryanqportfolio.vercel.app/)
 * ✉️  You can contact me at [bryanq2008@live.com](mailto:bryanq2008@live.com)
 * 🧠  I'm learning Rust
-* 📜  [Resume]([Bryan_Alec_Quero_2-10-26.pdf](https://github.com/user-attachments/files/26796492/Bryan_Alec_Quero_2-10-26.pdf)) 
+* 📜  [Resume]([Bryan_Alec_Quero_2-10-26.pdf](https://github.com/user-attachments/files/26796529/Bryan_Alec_Quero_2-10-26.pdf)
+) 
 
 
 ## BIO
